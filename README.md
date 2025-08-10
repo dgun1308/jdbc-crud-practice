@@ -7,6 +7,7 @@
 
 # SQL 스크립트
 
+
 -- 테이블 삭제
 drop table if exists tbl_character_equipment cascade;
 drop table if exists tbl_item cascade;
