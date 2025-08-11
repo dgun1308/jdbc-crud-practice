@@ -18,6 +18,8 @@ U : 캐릭터명으로 검색하여, 공격력 능력치를 조절
 D : 기등록된 캐릭터 삭제
 // 캐릭터 아이템 장착 및 장비정보 조회 추후 추가예정
 
+
+
 # 게임 캐릭터 장비정보 데이터베이스 논리 모델링
 <img width="1126" height="797" alt="Image" src="https://github.com/user-attachments/assets/1abbaf59-bce3-4d55-97c9-a3e2230099aa" />
 
